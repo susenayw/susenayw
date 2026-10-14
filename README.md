@@ -57,11 +57,3 @@ My interests span desktop, mobile, and web development. I learn by building, exp
 | 🔤 **[Font Tester](https://github.com/susenayw/Font-Tester)** | Previews local fonts and watches font folders for changes. | Electron · JavaScript |
 
 ---
-
-<div align="center">
-
-**Always learning. Always making something.**
-
-[Explore my repositories →](https://github.com/susenayw?tab=repositories)
-
-</div>
