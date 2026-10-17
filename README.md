@@ -34,7 +34,7 @@ I also build desktop, mobile, and web tools. My tools include VS Code, Codex, an
 </p>
 
 <p>
-  <img alt="Rust — Ferris crab" src="https://raw.githubusercontent.com/susenayw/susenayw/main/assets/rust-badge.svg" />
+  <img alt="Rust — Ferris crab" src="https://raw.githubusercontent.com/susenayw/susenayw/main/assets/rust-badge.svg?v=2" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
